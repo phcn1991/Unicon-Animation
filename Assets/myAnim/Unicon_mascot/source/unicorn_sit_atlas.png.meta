@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 7e211738b5d7f1f4c873862c646eed69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5723980999678979685
+    second: unicorn_sit_atlas_0
+  - first:
+      213: -4538677006123423423
+    second: unicorn_sit_atlas_1
+  - first:
+      213: 3750352340931966967
+    second: unicorn_sit_atlas_2
+  - first:
+      213: 6294663065369936674
+    second: unicorn_sit_atlas_3
+  - first:
+      213: -5185497128919473773
+    second: unicorn_sit_atlas_4
+  - first:
+      213: 2891417847654521161
+    second: unicorn_sit_atlas_5
+  - first:
+      213: -6151266474613810773
+    second: unicorn_sit_atlas_6
+  - first:
+      213: 1469177270797434227
+    second: unicorn_sit_atlas_7
+  - first:
+      213: 2165271219197623016
+    second: unicorn_sit_atlas_8
+  - first:
+      213: -103509637501395019
+    second: unicorn_sit_atlas_9
+  - first:
+      213: 6187338252497082212
+    second: unicorn_sit_atlas_10
+  - first:
+      213: -878583255545762190
+    second: unicorn_sit_atlas_11
+  - first:
+      213: -2485862283012121419
+    second: unicorn_sit_atlas_12
+  - first:
+      213: -4420406350273696950
+    second: unicorn_sit_atlas_13
+  - first:
+      213: -2784007906534961409
+    second: unicorn_sit_atlas_14
+  - first:
+      213: 8799157858888332777
+    second: unicorn_sit_atlas_15
+  - first:
+      213: -4868689632157232368
+    second: unicorn_sit_atlas_16
+  - first:
+      213: -2435180087770452766
+    second: unicorn_sit_atlas_17
+  - first:
+      213: -6860690307743019173
+    second: unicorn_sit_atlas_18
+  - first:
+      213: -978513463472678867
+    second: unicorn_sit_atlas_19
+  - first:
+      213: -7590174257350008541
+    second: unicorn_sit_atlas_20
+  - first:
+      213: -1054572462273919675
+    second: unicorn_sit_atlas_21
+  - first:
+      213: 6378040809414890700
+    second: unicorn_sit_atlas_22
+  - first:
+      213: 703411443492805765
+    second: unicorn_sit_atlas_23
+  - first:
+      213: -6254890298324390195
+    second: unicorn_sit_atlas_24
+  - first:
+      213: 8578534414841434546
+    second: unicorn_sit_atlas_25
+  - first:
+      213: -4193242921132322828
+    second: unicorn_sit_atlas_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1760
+        width: 272
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b919c059b955090b0800000000000000
+      internalID: -5723980999678979685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1756
+        width: 281
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a7c35f416301c0800000000000000
+      internalID: -4538677006123423423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1770
+        width: 112
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7fdc7759deb0430800000000000000
+      internalID: 3750352340931966967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1844
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223852815b22b5750800000000000000
+      internalID: 6294663065369936674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1746
+        width: 191
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39162fec5d96908b0800000000000000
+      internalID: -5185497128919473773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1775
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491caa8631602820800000000000000
+      internalID: 2891417847654521161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1601
+        width: 246
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9dfdd6bbf42aaa0800000000000000
+      internalID: -6151266474613810773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1535
+        width: 271
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d75f991f0936410800000000000000
+      internalID: 1469177270797434227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_8
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1198
+        width: 579
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eab6a6a3b69c0e10800000000000000
+      internalID: 2165271219197623016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1593
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf56e97882409ef0800000000000000
+      internalID: -103509637501395019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1543
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675645db57ddd550800000000000000
+      internalID: 6187338252497082212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1532
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ea69b1f25aec3f0800000000000000
+      internalID: -878583255545762190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1263
+        width: 140
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc558c9c61708dd0800000000000000
+      internalID: -2485862283012121419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1162
+        width: 154
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b2e0148df87a2c0800000000000000
+      internalID: -4420406350273696950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1415
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeca1f2f873d59d0800000000000000
+      internalID: -2784007906534961409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1310
+        width: 115
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e530a5e373ec1a70800000000000000
+      internalID: 8799157858888332777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1006
+        width: 153
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01314a13390fe6cb0800000000000000
+      internalID: -4868689632157232368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_17
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 823
+        width: 167
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6650cc90843ed0800000000000000
+      internalID: -2435180087770452766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_18
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 807
+        width: 166
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f030db38ee9c0a0800000000000000
+      internalID: -6860690307743019173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 758
+        width: 176
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2816c9703f9b62f0800000000000000
+      internalID: -978513463472678867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 964
+        width: 208
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321a6573ab84aa690800000000000000
+      internalID: -7590174257350008541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 633
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5450144dee76d51f0800000000000000
+      internalID: -1054572462273919675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 459
+        width: 150
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc49e18e25a538850800000000000000
+      internalID: 6378040809414890700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 529
+        width: 316
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c55542bf403c900800000000000000
+      internalID: 703411443492805765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 99
+        width: 316
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce665bd96a2239a0800000000000000
+      internalID: -6254890298324390195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 120
+        width: 119
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1561a69931d0770800000000000000
+      internalID: 8578534414841434546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicorn_sit_atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 83
+        width: 144
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8cfca7cb9ec5c0800000000000000
+      internalID: -4193242921132322828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unicorn_sit_atlas_0: -5723980999678979685
+      unicorn_sit_atlas_1: -4538677006123423423
+      unicorn_sit_atlas_10: 6187338252497082212
+      unicorn_sit_atlas_11: -878583255545762190
+      unicorn_sit_atlas_12: -2485862283012121419
+      unicorn_sit_atlas_13: -4420406350273696950
+      unicorn_sit_atlas_14: -2784007906534961409
+      unicorn_sit_atlas_15: 8799157858888332777
+      unicorn_sit_atlas_16: -4868689632157232368
+      unicorn_sit_atlas_17: -2435180087770452766
+      unicorn_sit_atlas_18: -6860690307743019173
+      unicorn_sit_atlas_19: -978513463472678867
+      unicorn_sit_atlas_2: 3750352340931966967
+      unicorn_sit_atlas_20: -7590174257350008541
+      unicorn_sit_atlas_21: -1054572462273919675
+      unicorn_sit_atlas_22: 6378040809414890700
+      unicorn_sit_atlas_23: 703411443492805765
+      unicorn_sit_atlas_24: -6254890298324390195
+      unicorn_sit_atlas_25: 8578534414841434546
+      unicorn_sit_atlas_26: -4193242921132322828
+      unicorn_sit_atlas_3: 6294663065369936674
+      unicorn_sit_atlas_4: -5185497128919473773
+      unicorn_sit_atlas_5: 2891417847654521161
+      unicorn_sit_atlas_6: -6151266474613810773
+      unicorn_sit_atlas_7: 1469177270797434227
+      unicorn_sit_atlas_8: 2165271219197623016
+      unicorn_sit_atlas_9: -103509637501395019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
