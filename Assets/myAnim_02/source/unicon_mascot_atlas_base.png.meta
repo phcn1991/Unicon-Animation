@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 9a412540f4693124a8398d8c97909047
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1051089843920425896
+    second: unicon_mascot_atlas_base_0
+  - first:
+      213: -6095683025861048451
+    second: unicon_mascot_atlas_base_1
+  - first:
+      213: 62648588678227337
+    second: unicon_mascot_atlas_base_2
+  - first:
+      213: 1514166847602049427
+    second: unicon_mascot_atlas_base_3
+  - first:
+      213: -7454031398216370303
+    second: unicon_mascot_atlas_base_4
+  - first:
+      213: -6347511857233900489
+    second: unicon_mascot_atlas_base_5
+  - first:
+      213: -5822477815294162205
+    second: unicon_mascot_atlas_base_6
+  - first:
+      213: 2563200315776755222
+    second: unicon_mascot_atlas_base_7
+  - first:
+      213: -2999096815616847708
+    second: unicon_mascot_atlas_base_8
+  - first:
+      213: 5215083079983021473
+    second: unicon_mascot_atlas_base_9
+  - first:
+      213: -3740182794733624727
+    second: unicon_mascot_atlas_base_10
+  - first:
+      213: 8963670099189429959
+    second: unicon_mascot_atlas_base_11
+  - first:
+      213: -7471926079295691730
+    second: unicon_mascot_atlas_base_12
+  - first:
+      213: 4059420539156401419
+    second: unicon_mascot_atlas_base_13
+  - first:
+      213: 3657811936120935401
+    second: unicon_mascot_atlas_base_14
+  - first:
+      213: 73884573357162648
+    second: unicon_mascot_atlas_base_15
+  - first:
+      213: -6352826806046033457
+    second: unicon_mascot_atlas_base_16
+  - first:
+      213: -4318517235887009924
+    second: unicon_mascot_atlas_base_17
+  - first:
+      213: -6383874688073817238
+    second: unicon_mascot_atlas_base_18
+  - first:
+      213: 5244828859505554545
+    second: unicon_mascot_atlas_base_19
+  - first:
+      213: 3907505294699901551
+    second: unicon_mascot_atlas_base_20
+  - first:
+      213: 8850374330780400742
+    second: unicon_mascot_atlas_base_21
+  - first:
+      213: -8231473668974524879
+    second: unicon_mascot_atlas_base_22
+  - first:
+      213: 9127312576699565375
+    second: unicon_mascot_atlas_base_23
+  - first:
+      213: 4280505868682456968
+    second: unicon_mascot_atlas_base_24
+  - first:
+      213: -8938502768646900220
+    second: unicon_mascot_atlas_base_25
+  - first:
+      213: -8604232968655986287
+    second: unicon_mascot_atlas_base_26
+  - first:
+      213: 8099711194930278033
+    second: unicon_mascot_atlas_base_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1808
+        width: 392
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d5e5e4a8369e00800000000000000
+      internalID: 1051089843920425896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1837
+        width: 287
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d778c249598c76ba0800000000000000
+      internalID: -6095683025861048451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1899
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98568d93f829ed000800000000000000
+      internalID: 62648588678227337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_3
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1885
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3914ef9b9b6630510800000000000000
+      internalID: 1514166847602049427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_4
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1845
+        width: 151
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18774bcbfe5fd8890800000000000000
+      internalID: -7454031398216370303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_5
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1796
+        width: 129
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c4efda89b19e7a0800000000000000
+      internalID: -6347511857233900489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_6
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1739
+        width: 264
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea8cca9647623fa0800000000000000
+      internalID: -5822477815294162205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1435
+        width: 513
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616ea065b11529320800000000000000
+      internalID: 2563200315776755222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1775
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0172a06511166d0800000000000000
+      internalID: -2999096815616847708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1792
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb9883e62bf5840800000000000000
+      internalID: 5215083079983021473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_10
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1791
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962efd48093381cc0800000000000000
+      internalID: -3740182794733624727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_11
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1488
+        width: 372
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6f9f1b67a556c70800000000000000
+      internalID: 8963670099189429959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1493
+        width: 178
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e246a9f91d26e4890800000000000000
+      internalID: -7471926079295691730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1708
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d875ef875f55830800000000000000
+      internalID: 4059420539156401419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_14
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1348
+        width: 445
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e31ca3739823c230800000000000000
+      internalID: 3657811936120935401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1356
+        width: 196
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890c555c0ad760100800000000000000
+      internalID: 73884573357162648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1244
+        width: 231
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9fb0abda936d7a0800000000000000
+      internalID: -6352826806046033457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_17
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1530
+        width: 127
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f8d86547b8114c0800000000000000
+      internalID: -4318517235887009924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1141
+        width: 213
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63a0ce5bcbe767a0800000000000000
+      internalID: -6383874688073817238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 752
+        width: 508
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174bb863f0069c840800000000000000
+      internalID: 5244828859505554545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_20
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1377
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62bb88dc5f3a3630800000000000000
+      internalID: 3907505294699901551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_21
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1130
+        width: 210
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb6630098d2da70800000000000000
+      internalID: 8850374330780400742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_22
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1003
+        width: 181
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136cace6f4ee3cd80800000000000000
+      internalID: -8231473668974524879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_23
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 872
+        width: 424
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3502201e6abaae70800000000000000
+      internalID: 9127312576699565375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_24
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1124
+        width: 287
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88feac19869676b30800000000000000
+      internalID: 4280505868682456968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_25
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 882
+        width: 304
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406b4f2171f04f380800000000000000
+      internalID: -8938502768646900220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 357
+        width: 235
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1912e82c3bf979880800000000000000
+      internalID: -8604232968655986287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicon_mascot_atlas_base_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 354
+        width: 235
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ee21dea64f76070800000000000000
+      internalID: 8099711194930278033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unicon_mascot_atlas_base_0: 1051089843920425896
+      unicon_mascot_atlas_base_1: -6095683025861048451
+      unicon_mascot_atlas_base_10: -3740182794733624727
+      unicon_mascot_atlas_base_11: 8963670099189429959
+      unicon_mascot_atlas_base_12: -7471926079295691730
+      unicon_mascot_atlas_base_13: 4059420539156401419
+      unicon_mascot_atlas_base_14: 3657811936120935401
+      unicon_mascot_atlas_base_15: 73884573357162648
+      unicon_mascot_atlas_base_16: -6352826806046033457
+      unicon_mascot_atlas_base_17: -4318517235887009924
+      unicon_mascot_atlas_base_18: -6383874688073817238
+      unicon_mascot_atlas_base_19: 5244828859505554545
+      unicon_mascot_atlas_base_2: 62648588678227337
+      unicon_mascot_atlas_base_20: 3907505294699901551
+      unicon_mascot_atlas_base_21: 8850374330780400742
+      unicon_mascot_atlas_base_22: -8231473668974524879
+      unicon_mascot_atlas_base_23: 9127312576699565375
+      unicon_mascot_atlas_base_24: 4280505868682456968
+      unicon_mascot_atlas_base_25: -8938502768646900220
+      unicon_mascot_atlas_base_26: -8604232968655986287
+      unicon_mascot_atlas_base_27: 8099711194930278033
+      unicon_mascot_atlas_base_3: 1514166847602049427
+      unicon_mascot_atlas_base_4: -7454031398216370303
+      unicon_mascot_atlas_base_5: -6347511857233900489
+      unicon_mascot_atlas_base_6: -5822477815294162205
+      unicon_mascot_atlas_base_7: 2563200315776755222
+      unicon_mascot_atlas_base_8: -2999096815616847708
+      unicon_mascot_atlas_base_9: 5215083079983021473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
